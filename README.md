@@ -1,0 +1,2 @@
+# parse_androidxml
+解析Android编译之后apk中包含的xml文件格式
